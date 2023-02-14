@@ -15,14 +15,11 @@ public class Check extends Sum{
 			
 			System.out.println("The number is not divisible by 10");
 	
-	}
-		
-		
+	}		
 			public static void main(String[] args) {
 				
 				Check ob1=new Check();
 				ob1.checkdivisibility();
 				
 	}
-
 }
